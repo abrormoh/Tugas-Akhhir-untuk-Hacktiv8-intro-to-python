@@ -1,4 +1,4 @@
-# Tugas-Akhhir-untuk-Hacktiv8-intro-to-python
+# Tugas-Akhir-untuk-Hacktiv8-intro-to-python
 Tugas akhir untuk menyelesaikan Course Hacktiv8 Intro to Python, berupa data Fifa 19 Player Classification
 
 Seperti yang kita ketahui pemain bola dibagi menjadi 4 Tipe yaitu Attacker(ST,RW,LW,CF,LS,RS), Midfielder (CAM,LM,RM,CM,DM), Defender(LB,RB,CB), Goal Keeper(GK). <br/><br/>
